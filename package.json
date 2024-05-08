@@ -1,6 +1,6 @@
 {
   "name": "@socnik/eslint-config-vitest",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Custom config preset for eslint-config-vitest ESLint plugin",
   "author": "Nikita",
   "license": "MIT",
