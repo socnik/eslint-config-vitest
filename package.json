@@ -15,7 +15,11 @@
     "LICENSE",
     "src"
   ],
-  "keywords": [],
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "vitest"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/socnik/eslint-vitest-config"
