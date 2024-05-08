@@ -1,5 +1,5 @@
 {
-  "name": "@socnik/eslint-vitest-config",
+  "name": "@socnik/eslint-config-vitest",
   "version": "0.0.0",
   "description": "Custom config preset for eslint-config-vitest ESLint plugin",
   "author": "Nikita",
