@@ -1,0 +1,42 @@
+{
+  "name": "@socnik/eslint-vitest-config",
+  "version": "0.0.0",
+  "description": "Custom config preset for eslint-config-vitest ESLint plugin",
+  "author": "Nikita",
+  "license": "MIT",
+  "scripts": {},
+  "exports": {
+    ".": {
+      "import": "./src/index.js",
+      "types": "./src/index.d.ts"
+    }
+  },
+  "files": [
+    "LICENSE",
+    "src"
+  ],
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socnik/eslint-vitest-config"
+  },
+  "homepage": "https://github.com/socnik/eslint-vitest-config#readme",
+  "bugs": {
+    "url": "https://github.com/socnik/eslint-vitest-config/issues"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "private": false,
+  "type": "module",
+  "prettier": "@socnik/my-prettier-config",
+  "packageManager": "pnpm@9.0.4",
+  "peerDependencies": {
+    "eslint": ">=9",
+    "eslint-plugin-vitest": ">=0.5.0"
+  },
+  "devDependencies": {
+    "@socnik/my-prettier-config": "^1.0.3",
+    "prettier": "^3.2.5"
+  }
+}
